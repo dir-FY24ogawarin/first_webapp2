@@ -11,5 +11,6 @@
         <p>送信パラメータ：<%= request.getAttribute("q") %></p>
         <p>送信パラメータ：<c:out value="${q}" /></p>
         <p>送信パラメータ：${q}</p>
+        
     </body>
 </html>
